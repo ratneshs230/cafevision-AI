@@ -1,0 +1,7 @@
+{
+  "name": "CafeVision AI",
+  "description": "An intelligent cafe design assistant that transforms raw construction sites into stunning cafe concepts using AI-driven analysis, layout generation, and visual editing.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
